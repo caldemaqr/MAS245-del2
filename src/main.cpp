@@ -9,6 +9,7 @@
 
 
 
+
 //Kommentarer er lagt til i scriptet.
 //En del kodelinjer er kommentert ut da samme script er blitt brukt i flere oppgaver
 
